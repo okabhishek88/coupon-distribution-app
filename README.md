@@ -20,3 +20,11 @@ You can experience the coupon claiming process with the built-in abuse preventio
 👉 [Live Demo](https://coupon-distribution-app-frontend.onrender.com/)
 
 *Note: Please be aware that the demo may have limitations on the number of claims per session and time restrictions to prevent abuse.*
+
+## 📸 Screenshots
+Here are some screenshots of the Round-Robin Coupon Distribution app in action:
+
+![Image](https://github.com/user-attachments/assets/099166a7-e95c-4701-b117-c7474ee9738d)
+
+![Image](https://github.com/user-attachments/assets/34ce13ff-f3b3-4d65-ad9d-7d43bb34d5f3)
+
