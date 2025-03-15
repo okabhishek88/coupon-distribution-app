@@ -10,7 +10,7 @@ function App() {
     setLoading(true)
     setFeedback("")
     try {
-      const response = await axios.post("http://localhost:8000/api/claim", {}, {
+      const response = await axios.post("https://coupon-distribution-app-backend.onrender.com/api/claim", {}, {
         withCredentials: true,
       })
       setFeedback(response.data.coupon ? `Success! Your coupon is: ${response.data.coupon}` : response.data.message)
